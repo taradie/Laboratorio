@@ -1,0 +1,33 @@
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\bin\Debug\Laboratorio.exe.config
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csprojResolveAssemblyReference.cache
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\obj\Debug\Laboratorio.LogIn.resources
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\obj\Debug\Laboratorio.MenuPrincipal.resources
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\obj\Debug\Laboratorio.csproj.GenerateResource.Cache
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\bin\Debug\Laboratorio.exe
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\bin\Debug\Laboratorio.pdb
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\obj\Debug\Laboratorio.Properties.Resources.resources
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\obj\Debug\Laboratorio.exe
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\obj\Debug\Laboratorio.pdb
+D:\Douglas\UMG\Diseño de Sistemas\Laboratorio\Laboratorio\obj\Debug\Laboratorio.IngresoPaciente.resources
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\bin\Debug\Laboratorio.exe.config
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\obj\Debug\Laboratorio.exe
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\obj\Debug\Laboratorio.pdb
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\bin\Debug\Laboratorio.exe
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\bin\Debug\Laboratorio.pdb
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\obj\Debug\Laboratorio.csprojResolveAssemblyReference.cache
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\obj\Debug\Laboratorio.LogIn.resources
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\obj\Debug\Laboratorio.IngresoPaciente.resources
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\obj\Debug\Laboratorio.MenuPrincipal.resources
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\obj\Debug\Laboratorio.Properties.Resources.resources
+C:\Users\DylanIsaac\Desktop\8vo Ciclo\Diseño de Sistemas\Proyecto\Laboratorio\obj\Debug\Laboratorio.csproj.GenerateResource.Cache
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\bin\Debug\Laboratorio.exe.config
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.exe
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.pdb
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\bin\Debug\Laboratorio.exe
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\bin\Debug\Laboratorio.pdb
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.csprojResolveAssemblyReference.cache
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.LogIn.resources
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.IngresoPaciente.resources
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.MenuPrincipal.resources
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.Properties.Resources.resources
+C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.csproj.GenerateResource.Cache
