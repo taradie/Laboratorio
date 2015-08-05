@@ -57,7 +57,7 @@
             this.reporteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.sucursalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.ingresarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
-            this.modificarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.AseguradoraToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.btnSalir = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -272,7 +272,7 @@
             // 
             this.sucursalToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
             this.ingresarToolStripMenuItem,
-            this.modificarToolStripMenuItem});
+            this.AseguradoraToolStripMenuItem});
             this.sucursalToolStripMenuItem.Font = new System.Drawing.Font("Calibri", 12F);
             this.sucursalToolStripMenuItem.Name = "sucursalToolStripMenuItem";
             this.sucursalToolStripMenuItem.Size = new System.Drawing.Size(57, 23);
@@ -286,12 +286,12 @@
             this.ingresarToolStripMenuItem.Text = "Sucursal";
             this.ingresarToolStripMenuItem.Click += new System.EventHandler(this.ingresarToolStripMenuItem_Click);
             // 
-            // modificarToolStripMenuItem
+            // AseguradoraToolStripMenuItem
             // 
-            this.modificarToolStripMenuItem.Name = "modificarToolStripMenuItem";
-            this.modificarToolStripMenuItem.Size = new System.Drawing.Size(160, 24);
-            this.modificarToolStripMenuItem.Text = "Aseguradora";
-            this.modificarToolStripMenuItem.Click += new System.EventHandler(this.modificarToolStripMenuItem_Click);
+            this.AseguradoraToolStripMenuItem.Name = "AseguradoraToolStripMenuItem";
+            this.AseguradoraToolStripMenuItem.Size = new System.Drawing.Size(160, 24);
+            this.AseguradoraToolStripMenuItem.Text = "Aseguradora";
+            this.AseguradoraToolStripMenuItem.Click += new System.EventHandler(this.modificarToolStripMenuItem_Click);
             // 
             // btnSalir
             // 
@@ -360,6 +360,6 @@
         private System.Windows.Forms.ToolStripMenuItem reporteToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem sucursalToolStripMenuItem;
         private System.Windows.Forms.ToolStripMenuItem ingresarToolStripMenuItem;
-        private System.Windows.Forms.ToolStripMenuItem modificarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem AseguradoraToolStripMenuItem;
     }
 }

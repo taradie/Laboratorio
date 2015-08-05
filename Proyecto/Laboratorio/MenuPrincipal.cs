@@ -42,7 +42,8 @@ namespace Laboratorio
 
         private void modificarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            
+            frmAseguradora ver = new frmAseguradora();
+            ver.Show();
         }
 
         private void consultarToolStripMenuItem_Click(object sender, EventArgs e)
