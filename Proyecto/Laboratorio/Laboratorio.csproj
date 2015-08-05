@@ -75,6 +75,18 @@
     <Compile Include="frmAseguradora.Designer.cs">
       <DependentUpon>frmAseguradora.cs</DependentUpon>
     </Compile>
+    <Compile Include="frmPuesto.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPuesto.Designer.cs">
+      <DependentUpon>frmPuesto.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmTarifaSeguro.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmTarifaSeguro.Designer.cs">
+      <DependentUpon>frmTarifaSeguro.cs</DependentUpon>
+    </Compile>
     <Compile Include="LogIn.cs">
       <SubType>Form</SubType>
     </Compile>
@@ -97,6 +109,12 @@
     </Compile>
     <EmbeddedResource Include="frmAseguradora.resx">
       <DependentUpon>frmAseguradora.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPuesto.resx">
+      <DependentUpon>frmPuesto.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmTarifaSeguro.resx">
+      <DependentUpon>frmTarifaSeguro.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="LogIn.resx">
       <DependentUpon>LogIn.cs</DependentUpon>
