@@ -31,3 +31,14 @@ C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\De
 C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.MenuPrincipal.resources
 C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.Properties.Resources.resources
 C:\Users\Josue\Documents\Visual Studio 2013\Projects\Proyecto\Laboratorio\obj\Debug\Laboratorio.csproj.GenerateResource.Cache
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\bin\Debug\Laboratorio.exe.config
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.exe
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.pdb
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.csprojResolveAssemblyReference.cache
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\bin\Debug\Laboratorio.exe
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\bin\Debug\Laboratorio.pdb
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.LogIn.resources
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.MenuPrincipal.resources
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.Properties.Resources.resources
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.csproj.GenerateResource.Cache
+C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.IngresoSucursal.resources

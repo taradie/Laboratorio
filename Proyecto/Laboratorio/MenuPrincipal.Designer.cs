@@ -54,6 +54,10 @@
             this.sbmIngresarCotizacion = new System.Windows.Forms.ToolStripMenuItem();
             this.sbmModificarCotizacion = new System.Windows.Forms.ToolStripMenuItem();
             this.sbmConsultaCotizacion = new System.Windows.Forms.ToolStripMenuItem();
+            this.reporteToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.sucursalToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.ingresarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
+            this.modificarToolStripMenuItem = new System.Windows.Forms.ToolStripMenuItem();
             this.btnSalir = new System.Windows.Forms.Button();
             this.menuStrip1.SuspendLayout();
             this.SuspendLayout();
@@ -66,7 +70,9 @@
             this.mCitas,
             this.mMuestra,
             this.mExamenes,
-            this.mCotizacion});
+            this.mCotizacion,
+            this.reporteToolStripMenuItem,
+            this.sucursalToolStripMenuItem});
             this.menuStrip1.Location = new System.Drawing.Point(0, 0);
             this.menuStrip1.Name = "menuStrip1";
             this.menuStrip1.Size = new System.Drawing.Size(1350, 27);
@@ -235,6 +241,7 @@
             this.mCotizacion.Name = "mCotizacion";
             this.mCotizacion.Size = new System.Drawing.Size(104, 23);
             this.mCotizacion.Text = "Cotizacion";
+            this.mCotizacion.Click += new System.EventHandler(this.mCotizacion_Click);
             // 
             // sbmIngresarCotizacion
             // 
@@ -253,6 +260,38 @@
             this.sbmConsultaCotizacion.Name = "sbmConsultaCotizacion";
             this.sbmConsultaCotizacion.Size = new System.Drawing.Size(140, 24);
             this.sbmConsultaCotizacion.Text = "Consultar";
+            // 
+            // reporteToolStripMenuItem
+            // 
+            this.reporteToolStripMenuItem.Font = new System.Drawing.Font("Calibri", 12F);
+            this.reporteToolStripMenuItem.Name = "reporteToolStripMenuItem";
+            this.reporteToolStripMenuItem.Size = new System.Drawing.Size(72, 23);
+            this.reporteToolStripMenuItem.Text = "Reporte";
+            // 
+            // sucursalToolStripMenuItem
+            // 
+            this.sucursalToolStripMenuItem.DropDownItems.AddRange(new System.Windows.Forms.ToolStripItem[] {
+            this.ingresarToolStripMenuItem,
+            this.modificarToolStripMenuItem});
+            this.sucursalToolStripMenuItem.Font = new System.Drawing.Font("Calibri", 12F);
+            this.sucursalToolStripMenuItem.Name = "sucursalToolStripMenuItem";
+            this.sucursalToolStripMenuItem.Size = new System.Drawing.Size(57, 23);
+            this.sucursalToolStripMenuItem.Text = "Otros";
+            this.sucursalToolStripMenuItem.Click += new System.EventHandler(this.sucursalToolStripMenuItem_Click);
+            // 
+            // ingresarToolStripMenuItem
+            // 
+            this.ingresarToolStripMenuItem.Name = "ingresarToolStripMenuItem";
+            this.ingresarToolStripMenuItem.Size = new System.Drawing.Size(160, 24);
+            this.ingresarToolStripMenuItem.Text = "Sucursal";
+            this.ingresarToolStripMenuItem.Click += new System.EventHandler(this.ingresarToolStripMenuItem_Click);
+            // 
+            // modificarToolStripMenuItem
+            // 
+            this.modificarToolStripMenuItem.Name = "modificarToolStripMenuItem";
+            this.modificarToolStripMenuItem.Size = new System.Drawing.Size(160, 24);
+            this.modificarToolStripMenuItem.Text = "Aseguradora";
+            this.modificarToolStripMenuItem.Click += new System.EventHandler(this.modificarToolStripMenuItem_Click);
             // 
             // btnSalir
             // 
@@ -318,5 +357,9 @@
         private System.Windows.Forms.ToolStripMenuItem sbmModificarCotizacion;
         private System.Windows.Forms.ToolStripMenuItem sbmConsultaCotizacion;
         private System.Windows.Forms.Button btnSalir;
+        private System.Windows.Forms.ToolStripMenuItem reporteToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem sucursalToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem ingresarToolStripMenuItem;
+        private System.Windows.Forms.ToolStripMenuItem modificarToolStripMenuItem;
     }
 }

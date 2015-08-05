@@ -44,23 +44,11 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Form1.cs">
+    <Compile Include="LogIn.cs">
       <SubType>Form</SubType>
     </Compile>
-    <Compile Include="Form1.Designer.cs">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </Compile>
-    <Compile Include="IngresoPaciente.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="IngresoPaciente.Designer.cs">
-      <DependentUpon>IngresoPaciente.cs</DependentUpon>
-    </Compile>
-    <Compile Include="Sucursal.cs">
-      <SubType>Form</SubType>
-    </Compile>
-    <Compile Include="Sucursal.Designer.cs">
-      <DependentUpon>Sucursal.cs</DependentUpon>
+    <Compile Include="LogIn.Designer.cs">
+      <DependentUpon>LogIn.cs</DependentUpon>
     </Compile>
     <Compile Include="MenuPrincipal.cs">
       <SubType>Form</SubType>
@@ -70,14 +58,14 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <EmbeddedResource Include="Form1.resx">
-      <DependentUpon>Form1.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="IngresoPaciente.resx">
-      <DependentUpon>IngresoPaciente.cs</DependentUpon>
-    </EmbeddedResource>
-    <EmbeddedResource Include="Sucursal.resx">
-      <DependentUpon>Sucursal.cs</DependentUpon>
+    <Compile Include="IngresoSucursal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="IngresoSucursal.Designer.cs">
+      <DependentUpon>IngresoSucursal.cs</DependentUpon>
+    </Compile>
+    <EmbeddedResource Include="LogIn.resx">
+      <DependentUpon>LogIn.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MenuPrincipal.resx">
       <DependentUpon>MenuPrincipal.cs</DependentUpon>
@@ -86,6 +74,9 @@
       <Generator>ResXFileCodeGenerator</Generator>
       <SubType>Designer</SubType>
       <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+    </EmbeddedResource>
+    <EmbeddedResource Include="IngresoSucursal.resx">
+      <DependentUpon>IngresoSucursal.cs</DependentUpon>
     </EmbeddedResource>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>

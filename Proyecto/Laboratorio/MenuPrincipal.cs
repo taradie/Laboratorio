@@ -19,8 +19,7 @@ namespace Laboratorio
 
         private void ingresarPacienteToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            IngresoPaciente ver = new IngresoPaciente();
-            ver.Show();
+            
         }
 
         private void btnSalir_Click(object sender, EventArgs e)
@@ -28,6 +27,32 @@ namespace Laboratorio
             LogIn ver = new LogIn();
             ver.Show();
             this.Close();
+        }
+
+        private void mCotizacion_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void ingresarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            IngresoSucursal ver = new IngresoSucursal();
+            ver.Show();
+        }
+
+        private void modificarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void consultarToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+            
+        }
+
+        private void sucursalToolStripMenuItem_Click(object sender, EventArgs e)
+        {
+
         }
     }
 }
