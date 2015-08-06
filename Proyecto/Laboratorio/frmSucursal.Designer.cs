@@ -1,6 +1,6 @@
 ﻿namespace Laboratorio
 {
-    partial class IngresoSucursal
+    partial class frmSucursal
     {
         /// <summary>
         /// Required designer variable.
@@ -28,7 +28,7 @@
         /// </summary>
         private void InitializeComponent()
         {
-            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(IngresoSucursal));
+            System.ComponentModel.ComponentResourceManager resources = new System.ComponentModel.ComponentResourceManager(typeof(frmSucursal));
             this.btnGuardar = new System.Windows.Forms.Button();
             this.btnCancelar = new System.Windows.Forms.Button();
             this.panel1 = new System.Windows.Forms.Panel();
@@ -37,11 +37,11 @@
             this.lblUbicacion = new System.Windows.Forms.Label();
             this.txtNombre = new System.Windows.Forms.TextBox();
             this.lblNombre = new System.Windows.Forms.Label();
-            this.dataGridView1 = new System.Windows.Forms.DataGridView();
+            this.tblSucursal = new System.Windows.Forms.DataGridView();
             this.nombreSucursal = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.ubicacionSucursal = new System.Windows.Forms.DataGridViewTextBoxColumn();
             this.panel1.SuspendLayout();
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).BeginInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tblSucursal)).BeginInit();
             this.SuspendLayout();
             // 
             // btnGuardar
@@ -130,16 +130,16 @@
             this.lblNombre.TabIndex = 10;
             this.lblNombre.Text = "Nombre:";
             // 
-            // dataGridView1
+            // tblSucursal
             // 
-            this.dataGridView1.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
-            this.dataGridView1.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
+            this.tblSucursal.ColumnHeadersHeightSizeMode = System.Windows.Forms.DataGridViewColumnHeadersHeightSizeMode.AutoSize;
+            this.tblSucursal.Columns.AddRange(new System.Windows.Forms.DataGridViewColumn[] {
             this.nombreSucursal,
             this.ubicacionSucursal});
-            this.dataGridView1.Location = new System.Drawing.Point(165, 107);
-            this.dataGridView1.Name = "dataGridView1";
-            this.dataGridView1.Size = new System.Drawing.Size(506, 234);
-            this.dataGridView1.TabIndex = 12;
+            this.tblSucursal.Location = new System.Drawing.Point(165, 107);
+            this.tblSucursal.Name = "tblSucursal";
+            this.tblSucursal.Size = new System.Drawing.Size(506, 234);
+            this.tblSucursal.TabIndex = 12;
             // 
             // nombreSucursal
             // 
@@ -152,23 +152,23 @@
             this.ubicacionSucursal.HeaderText = "Ubicacion";
             this.ubicacionSucursal.Name = "ubicacionSucursal";
             // 
-            // IngresoSucursal
+            // frmSucursal
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(684, 361);
-            this.Controls.Add(this.dataGridView1);
+            this.Controls.Add(this.tblSucursal);
             this.Controls.Add(this.txtNombre);
             this.Controls.Add(this.lblNombre);
             this.Controls.Add(this.txtUbicacion);
             this.Controls.Add(this.lblUbicacion);
             this.Controls.Add(this.panel1);
             this.FormBorderStyle = System.Windows.Forms.FormBorderStyle.FixedToolWindow;
-            this.Name = "IngresoSucursal";
+            this.Name = "frmSucursal";
             this.StartPosition = System.Windows.Forms.FormStartPosition.CenterScreen;
             this.Text = "Sucursal";
             this.panel1.ResumeLayout(false);
-            ((System.ComponentModel.ISupportInitialize)(this.dataGridView1)).EndInit();
+            ((System.ComponentModel.ISupportInitialize)(this.tblSucursal)).EndInit();
             this.ResumeLayout(false);
             this.PerformLayout();
 
@@ -184,7 +184,7 @@
         private System.Windows.Forms.TextBox txtNombre;
         private System.Windows.Forms.Label lblNombre;
         private System.Windows.Forms.Button btnEliminar;
-        private System.Windows.Forms.DataGridView dataGridView1;
+        private System.Windows.Forms.DataGridView tblSucursal;
         private System.Windows.Forms.DataGridViewTextBoxColumn nombreSucursal;
         private System.Windows.Forms.DataGridViewTextBoxColumn ubicacionSucursal;
     }

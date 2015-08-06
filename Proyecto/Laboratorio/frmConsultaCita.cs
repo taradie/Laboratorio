@@ -10,11 +10,16 @@ using System.Windows.Forms;
 
 namespace Laboratorio
 {
-    public partial class IngresoSucursal : Form
+    public partial class frmConsultaCita : Form
     {
-        public IngresoSucursal()
+        public frmConsultaCita()
         {
             InitializeComponent();
+        }
+
+        private void frmConsultaCita_Load(object sender, EventArgs e)
+        {
+
         }
     }
 }

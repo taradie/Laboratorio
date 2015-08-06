@@ -36,7 +36,7 @@ namespace Laboratorio
 
         private void ingresarToolStripMenuItem_Click(object sender, EventArgs e)
         {
-            IngresoSucursal ver = new IngresoSucursal();
+            frmSucursal ver = new frmSucursal();
             ver.Show();
         }
 
@@ -54,6 +54,23 @@ namespace Laboratorio
         private void sucursalToolStripMenuItem_Click(object sender, EventArgs e)
         {
 
+        }
+
+        private void sbmModificarPaciente_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void sbmIngresarCitas_Click(object sender, EventArgs e)
+        {
+            frmIngresoCita ver = new frmIngresoCita();
+            ver.Show();
+        }
+
+        private void sbmModificarCitas_Click(object sender, EventArgs e)
+        {
+            frmConsultaCita ver = new frmConsultaCita();
+            ver.Show();
         }
     }
 }
