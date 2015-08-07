@@ -9,20 +9,12 @@ namespace Laboratorio
 {
     class clasConexion
     {
-        MySqlConnection Conexion = new MySqlConnection();
-        String sConexion;
-        public void funiniciarConexion()
+        public static MySqlConnection funConexion()
         {
-            try{
-                sConexion = "Server=localhost; Database=laboratorio; Uid=root; Pwd=;";
-                Conexion.ConnectionString = sConexion;
-                Conexion.Open();
-                MessageBox.Show("Conexion establecida","Exito");
-            }catch(MySqlException)
-            {
-                MessageBox.Show("Error en la conexion","ERROR");
-            }
 
+            MySqlConnection Conexion = new MySqlConnection("server=localhost;userid=root;password= ;database=laboratorio");
+            Conexion.Open();
+            return Conexion;
         }
         
     }

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using MySql.Data.MySqlClient;
 
 namespace Laboratorio
 {
@@ -20,7 +20,11 @@ namespace Laboratorio
 
         private void btnGuardar_Click(object sender, EventArgs e)
         {
-            
+            int cod = 4;
+            MySqlCommand comando = new MySqlCommand(string.Format("Insert into TRASEGURADORA  values ('{0}','{1}')",
+            cod, txtNombre.Text), clasConexion.funConexion());
+            comando.ExecuteNonQuery();
+            //MessageBox.Show("Conectado");
         }
     }
 }

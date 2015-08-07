@@ -50,7 +50,6 @@ C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\
 C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.LogIn.resources
 C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.MenuPrincipal.resources
 C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.Properties.Resources.resources
-C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.IngresoSucursal.resources
 C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.csproj.GenerateResource.Cache
 C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\bin\Debug\MySql.Data.dll
 C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\bin\Debug\MySql.Data.Entity.dll
@@ -64,3 +63,8 @@ C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Lab
 C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.frmTarifaSeguro.resources
 C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.frmSucursal.resources
 C:\Users\jrevm_000\Desktop\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.frmCita.resources
+C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.frmConsultaCita.resources
+C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.frmIngresoCita.resources
+C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.frmPuesto.resources
+C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.frmTarifaSeguro.resources
+C:\Users\DylanIsaac\Documents\GitHub\Laboratorio\Proyecto\Laboratorio\obj\Debug\Laboratorio.frmSucursal.resources
